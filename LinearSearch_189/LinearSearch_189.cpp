@@ -22,3 +22,4 @@ void input()
 	// Accept array elements
 	{
 		char ch;
+		int comparison; // Number of comparisons
