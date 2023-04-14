@@ -34,3 +34,7 @@ void LinearSearch()
 {
 	char ch;
 	int comparison; // Number of comparison
+
+	do
+	{
+		// Accept the number to be search
