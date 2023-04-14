@@ -20,3 +20,5 @@ void input()
 	}
 
 	// Accept array elements
+	{
+		char ch;
