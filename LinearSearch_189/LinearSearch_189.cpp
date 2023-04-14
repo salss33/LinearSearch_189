@@ -40,3 +40,4 @@ void LinearSearch()
 		// Accept the number to be search
 		cout << "\nEnter the element you want to search: "; //Langkah 1
 		int item;
+		cin >> item;
