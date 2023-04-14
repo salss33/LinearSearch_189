@@ -20,6 +20,7 @@ void input()
 	}
 
 	// Accept array elements
-	{
-		char ch;
-		int comparison; // Number of comparisons
+	cout << "\n-------------------\n";
+	cout << "Enter array elements \n";
+	cout << "---------------------\n";
+	
